@@ -16,3 +16,18 @@
 #### - resistor 1k
 #### - resistor 2k
 #### - sensor ultrassônico HC-SR04 
+
+
+____________________________________________________________________________________________________________________________________________________________________________
+
+project to help the visually impaired in their daily locomotion, for this the ARDUINO platform was used, and an application to interpret the information
+Requirements to run the application:
+- android devices
+- Android 4.4 - 4.4.4 (API 19) or higher.
+Device
+prototype for study
+- uno or nano arduino
+- HC-05 Bluetooth module
+- 1k resistor
+- 2k resistor
+- HC-SR04 ultrasonic sensor
